@@ -1,11 +1,11 @@
-Building a Decision Tree to Predict Customer Churn
+Building a Decision Tree to Predict Customer Churn.
 Imagine you are a data analyst at a telecom company. The marketing department has noticed an increase in customer churn and needs your help to identify which customers are most likely to leave next month.
 
-Your Tasks
+Your Tasks.
 In this exercise, you will build a decision tree model to predict customer churn for a telecom company. Customer churn refers to when a customer stops doing business with a company. Predicting churn is crucial for businesses to retain customers by addressing their issues proactively.
 
-Copy the code below on this page and paste it into a notebook cell in the Jupyter Notebook below, then run the cell
-Dataset Description
+Copy the code below on this page and paste it into a notebook cell in the Jupyter Notebook below, then run the cell.
+Dataset Description.
 We will use a synthetic dataset for this exercise. The dataset contains the following columns:
 
 CustomerID: A unique identifier for each customer.
@@ -14,7 +14,7 @@ MonthlyCharge: The monthly bill amount for the customer.
 CustomerServiceCalls: The number of times the customer contacted customer service.
 Churn: This is our target variable, indicating whether the customer churned (Yes) or not (No).
 
-Step-by-Step Instructions
+Step-by-Step Instructions.
 
 Setup the Environment:
 Import necessary libraries: Pandas for data manipulation, Scikit-learn for machine learning, and Matplotlib for visualization.
